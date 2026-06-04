@@ -2,18 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>840833791902-b6u6v9pv2he2lgotjbi7ndc9mjqh8fsr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.840833791902-b6u6v9pv2he2lgotjbi7ndc9mjqh8fsr</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC-_Hppp8OEtrILjmhIBzR64GxOIL-xCYs</string>
+	<string>AIzaSyB-88ISJsUpGuM42tdod9mnWnOh6wmAC1A</string>
 	<key>GCM_SENDER_ID</key>
-	<string>722824587649</string>
+	<string>840833791902</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.feecra.maalem</string>
 	<key>PROJECT_ID</key>
-	<string>maalem-eb277</string>
+	<string>maalem-dispatch</string>
 	<key>STORAGE_BUCKET</key>
-	<string>maalem-eb277.firebasestorage.app</string>
+	<string>maalem-dispatch.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:722824587649:ios:1f0fa4848242debfcc2080</string>
+	<string>1:840833791902:ios:2ea3bc9358583c2e23088f</string>
+	<key>DATABASE_URL</key>
+	<string>https://maalem-dispatch-default-rtdb.europe-west1.firebasedatabase.app</string>
 </dict>
 </plist>

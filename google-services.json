@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840833791902",
+    "firebase_url": "https://maalem-dispatch-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "maalem-dispatch",
+    "storage_bucket": "maalem-dispatch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840833791902:android:9be563dc331bb0db23088f",
+        "android_client_info": {
+          "package_name": "com.feecra.maalem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840833791902-f6v01dkkm2ca0n6rf5qn89fs6oft8k0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZDZatcV4XhpL4g26JGFwEkahc2EZ2bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840833791902-f6v01dkkm2ca0n6rf5qn89fs6oft8k0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840833791902-b6u6v9pv2he2lgotjbi7ndc9mjqh8fsr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feecra.maalem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
